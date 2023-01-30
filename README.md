@@ -7,8 +7,8 @@ Grammar
 -------
 
 *Names:* a, b, ... t  
-*Variables:* u, v, ... z
-*Predicates:* A, B, ... Z
+*Variables:* u, v, ... z  
+*Predicates:* A, B, ... Z  
 
 *Atoms:* if P is a predicate letter and x...y are zero or more terms, then Px...y is an atomic formula.
 
